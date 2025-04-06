@@ -1,6 +1,6 @@
-#REACT PLAYGROUND
+# REACT PLAYGROUND
 
 Mini projects I made to learn react.
 
-##PROJECTS:
+## PROJECTS:
 1. [Todo list]()
